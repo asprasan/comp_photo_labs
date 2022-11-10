@@ -18,3 +18,4 @@
 | [Computational Imaging Science lab](https://anastasio.bioengineering.illinois.edu/) |UIUC, USA | [Mark Anastasio](https://bioengineering.illinois.edu/directory/profile/maa) | [Members](https://anastasio.bioengineering.illinois.edu/lab-members/) |
 | [Computational Imaging and Visualization Analysis lab](http://cell.missouri.edu/) | University of Missouri, USA | [Kannappan Palaniappan](http://cell.missouri.edu/people/2/) | [People](http://cell.missouri.edu/people) |
 | [Computational Imaging Group](https://cigroup.wustl.edu/) | Washington University in St. Louis | [Ulugbek S. Kamilov](https://cigroup.wustl.edu/ulugbek-s-kamilov/) | [Team](https://cigroup.wustl.edu/team/) |
+| [Computational Imaging Group](https://compimag.org/) | University Medical Center Utrecht | [Nico van den Berg](https://compimag.org/members/nico-van-den-berg) | [Team](https://compimag.org/people) |
