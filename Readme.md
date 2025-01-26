@@ -19,3 +19,6 @@
 | [Computational Imaging and Visualization Analysis lab](http://cell.missouri.edu/) | University of Missouri, USA | [Kannappan Palaniappan](http://cell.missouri.edu/people/2/) | [People](http://cell.missouri.edu/people) |
 | [Computational Imaging Group](https://cigroup.wustl.edu/) | Washington University in St. Louis | [Ulugbek S. Kamilov](https://cigroup.wustl.edu/ulugbek-s-kamilov/) | [Team](https://cigroup.wustl.edu/team/) |
 | [Computational Imaging Group](https://compimag.org/) | University Medical Center Utrecht | [Nico van den Berg](https://compimag.org/members/nico-van-den-berg) | [Team](https://compimag.org/people) |
+| [CI Lab @ Cornell](http://kristinamonakhova.com/) | Cornell University, NewYork | [Prof. Kristina Monakhova](http://kristinamonakhova.com/kristina/) | [Team](http://kristinamonakhova.com/team/) |
+| [Toronto CI Group](https://compimaging.dgp.toronto.edu/) | University of Toronto | [Kyros Kutulakos](https://www.cs.toronto.edu/~kyros/) | [Team](https://compimaging.dgp.toronto.edu/team/) |
+| [Columbia Vision Lab (CAVE)](https://cave.cs.columbia.edu/) | Columbia University | [Shree Nayar](https://www.cs.columbia.edu/~nayar/) | [Team](https://cave.cs.columbia.edu/people) |
