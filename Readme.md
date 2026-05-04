@@ -22,3 +22,8 @@
 | [CI Lab @ Cornell](http://kristinamonakhova.com/) | Cornell University, NewYork | [Prof. Kristina Monakhova](http://kristinamonakhova.com/kristina/) | [Team](http://kristinamonakhova.com/team/) |
 | [Toronto CI Group](https://compimaging.dgp.toronto.edu/) | University of Toronto | [Kyros Kutulakos](https://www.cs.toronto.edu/~kyros/) | [Team](https://compimaging.dgp.toronto.edu/team/) |
 | [Columbia Vision Lab (CAVE)](https://cave.cs.columbia.edu/) | Columbia University | [Shree Nayar](https://www.cs.columbia.edu/~nayar/) | [Team](https://cave.cs.columbia.edu/people) |
+| [Photon Intelligence Lab](https://akshatdave.github.io/index.html#Lab) | Stony Brook University (SUNY) | [Akshat Dave](https://akshatdave.github.io/) | [Team](https://akshatdave.github.io/index.html#Lab) |
+| [WISION Lab](https://wisionlab.com/) | University of Wisconsin-Madison | [Mohit Gupta](https://ls.wisc.edu/faculty-staff/ls-tenure/mohit-gupta-l-s-tenured-faculty) | [Team](https://wisionlab.com/team/) |
+| [Computational Optics Group](https://biostat.wisc.edu/~compoptics/) | University of Wisconsin-Madison | [Andreas Velten](https://biostat.wisc.edu/~compoptics/people.html#pi) | [Team](https://biostat.wisc.edu/~compoptics/people.html#team) |
+| [Computational Imaging Lab](https://www.laurawaller.com/research/) | University of California, Berkeley | [Laura Waller](https://www.laurawaller.com/) | [Team](https://www.laurawaller.com/people/) |
+| [Illumination and Imaging Laboratory](https://imaging.cs.cmu.edu/) | Carnegie Mellon University | [Srinivasa Narasimhan](https://www.cs.cmu.edu/~srinivas/) | [Team](https://imaging.cs.cmu.edu/team) |
