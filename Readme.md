@@ -27,3 +27,6 @@
 | [Computational Optics Group](https://biostat.wisc.edu/~compoptics/) | University of Wisconsin-Madison | [Andreas Velten](https://biostat.wisc.edu/~compoptics/people.html#pi) | [Team](https://biostat.wisc.edu/~compoptics/people.html#team) |
 | [Computational Imaging Lab](https://www.laurawaller.com/research/) | University of California, Berkeley | [Laura Waller](https://www.laurawaller.com/) | [Team](https://www.laurawaller.com/people/) |
 | [Illumination and Imaging Laboratory](https://imaging.cs.cmu.edu/) | Carnegie Mellon University | [Srinivasa Narasimhan](https://www.cs.cmu.edu/~srinivas/) | [Team](https://imaging.cs.cmu.edu/team) |
+| [Computational Imaging System Lab](https://computational-imaging.ucsd.edu/home) | UC San Diego | [Nick Antipa](https://www.nickantipa.com/) | [Team](https://computational-imaging.ucsd.edu/people) |
+| [LImIT](https://media.au.tsinghua.edu.cn/index.htm) | Tsinghua University | [Qionghai Dai](https://media.au.tsinghua.edu.cn/info/1009/1112.htm) | [Team](https://media.au.tsinghua.edu.cn/Team.htm) |
+| [Camera Intelligence](https://ci.idm.pku.edu.cn/) | Peking University | [Boxin Shi](https://cs.pku.edu.cn/info/1236/2684.htm) | [Team](https://ci.idm.pku.edu.cn/team) |
